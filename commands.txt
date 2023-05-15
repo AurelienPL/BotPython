@@ -1,0 +1,9 @@
+!full_history = pour voir l'historique
+!last_command = voir la last command
+!citations = done citation aléatoire
+!blagues = donne blagues aléatoire
+!greet = petit phrase sympa
+!botinfo = donne les infos du bot
+!clear = mais n'efface pas l'histo
+!userinfo = mais ne marche pas
+!serverinfo mais ne marche pas
