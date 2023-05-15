@@ -253,7 +253,7 @@ async def talk(ctx):
 
 
 
-client.run("MTA5MTMzNDU0ODc5MDQ0ODE4OA.G29Aed.etRkLNSh2VOI-TlFCk7WwE6V276Ch3wyW6S0P4")
+client.run("Your Token")
 
 
 
